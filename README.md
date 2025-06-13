@@ -13,8 +13,7 @@ Welcome to the Meme Generator – a fun and interactive web app that lets you cr
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try it out](https://github.com/Yuvraj-1508?tab=repositories)  
-*(Replace with your actual GitHub Pages URL)*
+🔗 [Click here to try it out]([https://github.com/Yuvraj-1508?tab=repositories](https://yuvraj-1508.github.io/Meme-Generator/))  
 
 ## 📸 Preview
 
